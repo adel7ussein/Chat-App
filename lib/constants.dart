@@ -7,8 +7,4 @@ const kMessage = 'message' ;
 const kImage = 'imageurl' ;
 const kCreatedAt = 'createdAt' ;
 
-// merangy314@gmail.com
-// 123456
-// mustafagamal67399@gmail.com
-// 123456
-//Color(0xff006D84)
+
