@@ -1,5 +1,4 @@
 import 'dart:core';
-import 'dart:core';
 import 'dart:io';
 
 import 'package:audioplayers/audioplayers.dart';
@@ -10,8 +9,6 @@ import 'package:record/record.dart';
 import 'package:scholar_chat/constants.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:scholar_chat/models/message.dart';
-import 'package:scholar_chat/widgets/image_buble.dart';
-import 'package:uuid/uuid.dart';
 
 import '../widgets/chat_buble.dart';
 

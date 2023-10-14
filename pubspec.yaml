@@ -44,10 +44,14 @@ dependencies:
   record: ^4.4.4
   path_provider: ^2.1.1
   audioplayers: ^5.1.0
+  flutter_launcher_icons: ^0.13.1
   
   
   
-  
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"  
   
 
 dev_dependencies:
