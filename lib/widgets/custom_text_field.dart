@@ -20,7 +20,7 @@ class CustomFormTextField extends StatelessWidget {
       obscureText: isObscureText ,
       decoration: InputDecoration(
           suffixIcon: icon,
-          hintText: '',
+          hintText: hintText,
           hintStyle: TextStyle(
               color: Colors.white
           ),
